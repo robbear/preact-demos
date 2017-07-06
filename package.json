@@ -23,6 +23,7 @@
     "preact-cli": "^1.1.2"
   },
   "dependencies": {
+    "@elix/elix": "github:elix/elix#master",
     "preact": "^8.1.0",
     "preact-compat": "^3.16.0",
     "preact-router": "^2.5.2"
